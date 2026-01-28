@@ -49,6 +49,5 @@ Spam–Ham Email Classification.
 - Accuracy, F1 scores, and performance summaries  
 - Full README inside the folder  
 
-
-All assignments use standard Python packages:
+Course Completed
 
